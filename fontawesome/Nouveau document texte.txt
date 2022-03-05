@@ -1,0 +1,8 @@
+<link rel="stylesheet" href="css/fontawesome/css/all.min.css">
+
+
+
+
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-facebook-f"></i>
+<i class="fa-brands fa-instagram"></i>
